@@ -1,1 +1,1 @@
-# TribalAPITests
+Right click on the Retailer Services.feature and click run.
